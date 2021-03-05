@@ -7,10 +7,9 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* [В программе KeyValidator не происходит валидация валидного проверочного ключа 00000000-0000-0000-0000-000000000000](https://github.com/jukkty/java1.2/issues/1)
-* [В программе KeyValidator не происходит валидация валидного ключа 80b427f8-92cd-3aae-ba04-3927fbe17c6](https://github.com/jukkty/java1.2/issues/2)
-* [В программе KeyValidator не происходит валидация валидного ключа 387eedc6-12e9-3b32-9881-63b6b5e85317](https://github.com/jukkty/java1.2/issues/3)
-* [В программе KeyValidator происходит валидация невалидного ключа 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1](https://github.com/jukkty/java1.2/issues/4)
+* [В программе KeyValidator не происходит валидация валидного проверочного ключа](https://github.com/jukkty/java1.2/issues/1)
+* [В программе KeyValidator не происходит валидация валидного ключа](https://github.com/jukkty/java1.2/issues/3)
+* [В программе KeyValidator происходит валидация невалидного ключа](https://github.com/jukkty/java1.2/issues/4)
 
 ## Описание процесса тестирования
 
